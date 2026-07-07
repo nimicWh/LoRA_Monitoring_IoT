@@ -1,7 +1,11 @@
-LoRa IoT platform. 
-The project was done back on 2017. 
-It was posted on my X account (https://x.com/NimicMe), formerly twitter as project.
-LoPy board (from PyCom)
+LoRa IoT platform.\
+The project was done back on 2017.\
+It was posted on my X account (https://x.com/NimicMe), formerly twitter as project.\
+LoPy board (from PyCom)\
+LoRa is a wireless radio communication technology (physical layer) that enables long-range, low-power communication between devices.\
+Uses frequency in ISM band, uses Chirp Spread Spectrum (CSS). \
+Different regions uses different frequencies. Eg, Singapore 923Mhz.\
+Uses frequency hopping.
 
 1. The LoPy board
 <img width="1536" height="2048" alt="pycom1" src="https://github.com/user-attachments/assets/46f2658d-9daf-426f-9ff7-45084c0c226f" />
