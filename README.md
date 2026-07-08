@@ -35,7 +35,7 @@ Operating frequencies vary by region. For example, Singapore uses the **923 MHz 
 
 ---
 
-## Project Objectives
+## Project
 
 * Evaluate long-range LoRa communication
 * Deploy IoT devices on a LoRaWAN network
@@ -62,7 +62,6 @@ The Things Network (TTN)
 
 ---
 
-# Project Showcase
 
 ## 1. Pycom LoPy Development Board
 
@@ -111,7 +110,7 @@ Supported connectivity includes:
 
 ---
 
-# Key Learning Outcomes
+# Outcomes
 
 * Understanding LoRa and LoRaWAN architecture
 * Configuring LoRaWAN devices and gateways
